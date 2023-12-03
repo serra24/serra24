@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serra24
 - 👀 I’m interested in Coding,Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Python, MySQL, Azure, Sapark, SAS, Artificial intelligence and Deep learning
+- 🌱 I’m currently learning Python, Azure,SAS, Artificial intelligence and Deep learning
 - 💞️ I’m looking to collaborate on building amazing Website!
 - 📫 How to reach me israalotfy891@outlook.com
 
